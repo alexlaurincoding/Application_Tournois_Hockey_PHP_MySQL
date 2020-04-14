@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>JS/mainscript.js</url>
+            <bookmark id="1">
+                <name/>
+                <line>291</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Vues/matchDuJour.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/DAOs/ParticipantDAO.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/DAOs/TournoiDAO.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Vues/calendrier.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Controleur/ResultatController.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/DAOs/Database.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Services/CalendrierServices.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Services/ParticipantServices.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Controleur/CalendrierController.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/DAOs/EquipeDAO.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/DAOs/CalendrierDAO.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Vues/classement.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Controleur/TournoiController.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Controleur/ParticipantController.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Vues/Partial/bannerAdmin.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Vues/ligueAdmin.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Controleur/EquipeController.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Modeles/Participant.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Vues/resultats.php</file>
+            <file>file:/C:/Users/girou/Desktop/RosemontExtra/XAMPP/htdocs/hockeyAlex2/Modeles/Partie.php</file>
+        </group>
+    </open-files>
+</project-private>
